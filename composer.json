@@ -1,0 +1,12 @@
+{
+    "name": "thetravelingtwohigs/blog",
+    "description": "An adorable travel log for Austin, Brenda and Tio.",
+    "license": "All rights reserved.",
+    "authors": [
+        {
+            "name": "jameslafferty",
+            "email": "james@nearlysensical.com"
+        }
+    ],
+    "require": {}
+}
